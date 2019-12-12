@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Instafeiit</string>
+    <string
+    name="SomePicture"
+    >Some Picture</string>
+    <string
+        name="subtitle"
+        >Subtitle</string>
+    <string
+        name="pictureDecp"
+        >Description</string>
+    <string
+        name="button1"
+        >Like</string>
+    <string
+        name="button2"
+        >Share</string>
+    <string name="todo">TODO</string>
+
+
 </resources>
